@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CalculaMinutosPassados {
 		
 	public static void main(String[] args) {
-		CalculaMinutosPassados();
+		CalculaMinutosPassados();//
 	}
 
 	private static void CalculaMinutosPassados(){
